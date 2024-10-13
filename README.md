@@ -1,1 +1,21 @@
-# cyclistic_case_study
+# Cyclistic Bike-share Company Marketing Case Study
+
+
+
+## Introduction
+
+
+
+```
+code
+```
+---
+
+---
+
+<img src="https://www.example.com">
+
+=
+
+---
+
