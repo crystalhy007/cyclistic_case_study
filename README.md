@@ -1,6 +1,7 @@
 # Cyclistic Bike-share Marketing Analysis
-date: 10/13/2024
-author: Yue (Crystal) Hu
+
+- **Author Name**: Yue (Crystal) Hu
+- **Date**: October 2024
 
 ## Introduction
 Cyclistic is a bike-share company in Chicago. Since its inception in 2016, Cyclistic has grown to a fleet of 5,824 bicycles, geotracked and docked across 692 stations throughout Chicago. Riders can unlock bikes from one station and return them to any other station in the system, making it a highly flexible service.
