@@ -124,4 +124,4 @@ To further enhance our understanding and conversion strategies, the following st
 3. **Explore Digital Marketing Channels**:
    - Investigate how digital media (social media, email marketing, in-app notifications) can be leveraged to target casual riders and encourage them to become annual members.
 
-[Visit Analysis Presentation]([https://www.tableau.com](https://github.com/crystalhy007/cyclistic_case_study_presentation/blob/main/cyclistic_case_study%20_slides.pdf))
+[Visit Analysis Presentation](https://github.com/crystalhy007/cyclistic_case_study_presentation/blob/main/cyclistic_case_study%20_slides.pdf)
